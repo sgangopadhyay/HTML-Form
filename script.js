@@ -3,7 +3,7 @@ container.setAttribute('class', 'container p-4');
 
 let heading = document.createElement('div');
 heading.setAttribute('class', 'h2');
-heading.innerHTML = "HTML FORM";
+heading.innerHTML = "SUMAN GANGOPADHYAY-HTML FORM";
 heading.style.textAlign = "center";
 
 let form = document.createElement('form');
